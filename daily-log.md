@@ -27,6 +27,7 @@ September 15, 2020:
 September 16, 2020:
 
 - Google Meet: https://meet.google.com/ogp-mbxk-gjs
+  - The lecture was recorded and is available [here](https://drive.google.com/file/d/1WG1vV9l7QuDt5u-pJc-fW_ancruhfGJr/view?usp=sharing)
 - Finished up Java notes
 - Tutorial on format strings: https://docs.oracle.com/javase/tutorial/java/data/numberformat.html
 - Whiteboard: https://jamboard.google.com/d/1mLV7WlSg88j72WA9blNJUWYvAMdAc_CG4yzszc4zCdQ/viewer
