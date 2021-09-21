@@ -40,3 +40,11 @@ September 16, 2020:
   - [`Formatting.java`](03%20Formatting/Formatting.java)
   - [`ReadFile.java`](04%20Reading%20a%20File/ReadFile.java)
   - [`input.txt`](04%20Reading%20a%20File/input.txt)
+
+
+September 21, 2020:
+
+- Answered questions about Programming Assignment 1
+- Working through ADT notes
+- New files:
+  - [`ADTs.java`](05%20ADTs/ADTs.java)
